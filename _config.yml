@@ -1,0 +1,28 @@
+name: mylesdeversphotography
+favicon: null
+layout_spectrum: 0.507284821709618
+typography_spectrum: 0.6230920217931271
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6346420829650015
+  lightness: 0.7365852505899966
+  saturation: 0.5619581278879195
+  rhythmicContrast: 0.7302172670606524
+purpose: []
